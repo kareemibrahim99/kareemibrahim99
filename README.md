@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kareem Ibrahim
+# Hi , I'm Kareem Ibrahim
 
 ### Full Stack Developer | React.js • Node.js • Express.js • MongoDB
 
