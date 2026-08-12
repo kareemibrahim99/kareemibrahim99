@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 About Me
+### ⚡ About Me
 - 🔭 Full Stack Developer Intern (MERN) @ **National Telecommunication Institute** — building React/Node/Express/MongoDB features 
 - 🌱 Also picked up **ASP.NET** (MVC, Entity Framework, SQL Server) via DEPI and **Flutter** via Route Academy & NTI
 - 🎓 Fresh grad — B.Sc. Computer Science (Software Engineering), Menoufia University — Graduation Project grade: **Excellent**
@@ -59,4 +59,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kareemibrahim99&color=blue)
 
-Thanks for stopping by — let's build something great together! 🚀
+Thanks for stopping by — let's build something great together! 
